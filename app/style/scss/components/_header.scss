@@ -1,3 +1,7 @@
+.navbar {
+  margin-top: 0;
+  padding-top: 0;
+}
 .navbar li {
     font-size: 2.0em;
 }
@@ -13,12 +17,4 @@ h5 {
 .log-out-btn {
     margin-right: 5px;
     margin-top: 5px;
-}
-
-@media (max-width: 768px) {
-  .form-control{
-    width: 15%;
-    display: block;
-    float: right;
-  }
 }
